@@ -1,0 +1,1 @@
+C:\Projects\Github_Projects\Vidly\Vidly.Tests\obj\Debug\Vidly.Tests.csprojResolveAssemblyReference.cache

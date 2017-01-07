@@ -24,12 +24,24 @@ namespace Vidly.Controllers
         {
             ViewBag.Message = "Your contact page.";
 
+            
             return View();
         }
 
         public ActionResult More()
         {
             ViewBag.Message = "Your contact page.";
+            return View();
+        }
+
+        public ActionResult Part1()
+        {
+            return View();
+            
+        }
+
+        public ActionResult Part2()
+        {
             return View();
         }
     }
